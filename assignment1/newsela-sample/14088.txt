@@ -1,0 +1,23 @@
+SAN FRANCISCO, Calif. — In December, 14 people were killed at a holiday party in California. The U.S. government thinks an iPhone might hold some clues.
+Last month, a judge ordered Apple to help the government get information from the phone. Apple fought the order. It said that it wanted to keep the iPhone data hidden to protect its customers. No one should be able to listen in on private phone calls, it said. No one should be able to read private messages or look at peoples' pictures without permission.
+On Monday, FBI officials found their own way to get into the phone.
+What Was The Fight About?
+Apple hides the data on its iPhones and iPads. It does this by something called encryption.
+Encryption scrambles data so it is unreadable. To read it you need to enter a secret key or passcode.
+The government wanted Apple to create software to get around the encryption. Then investigators might be able to see the messages on the shooter's phone.
+Apple said it could create the software. The tech company argued, though, it would be a bad idea. Tim Cook, the head of Apple, said the government would just ask Apple to do it again in other cases.  Apple also said the software could be stolen by hackers and used against other iPhones.
+Officials said they were only asking for Apple's help in one case. Yet, police around the country have said they want Apple's help getting into other iPhones. It is not clear if the shooter's iPhone had any useful information. FBI Director James Comey said the FBI needs to track down every clue. They must do that to figure out what happened, he said.
+Why Did This Turn Into Such A Big Deal?
+Law enforcement and tech companies have been unhappy with each other. Law enforcement includes the FBI and police. The iPhone case brought all the bad feelings out in the open.
+On one hand, Apple and other tech companies want to protect their customers.
+On the other hand, law enforcement wants to use this data to solve crimes. They say the information could help them spot criminals. It could help them stop attacks on the country. Officials complained that tech companies are helping dangerous people to hide.
+So Who Won?
+Each side can claim a victory. The FBI said it got into the iPhone. Apple said it fought a court order and won. It did not do something that could hurt its customers.
+Even so, people may not trust the FBI as much now. The FBI insisted that only Apple could help unlock the phone. Yet, as it turned out, there was another way.
+To the public, Apple argued that it stood up for its customers. Some people may think the company should have done more to help law enforcement.
+Does That End The Matter?
+Law enforcement officials still want to get into other iPhones. The FBI has not said how it got into the shooter's iPhone. It may be able to do it again. We do not know who showed the FBI how to do it. It is possible that a company came up with the solution. If so, the company could sell it to others in the future.
+Apple wants to know how the FBI got into the phone. It wants to keep others from doing that. Even if the FBI does not tell Apple, computer security experts think Apple will try to make it even harder to get into its phones.
+Meanwhile, some lawmakers say government cannot force tech companies to help. Others say tech companies must provide more help.
+      
+      

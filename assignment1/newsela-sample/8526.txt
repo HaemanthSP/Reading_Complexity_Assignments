@@ -1,0 +1,35 @@
+BALTIMORE, Md. — After Darth Vader lopped off Luke Skywalker’s hand in the movie “Star Wars: Episode V The Empire Strikes Back,” Rebel Alliance doctors gave Skywalker a prosthetic hand. Unlike prosthetics found in the real world, Skywalker's new man-made hand immediately moves and feels just like a human hand.
+The kind of prosthetics found in science fiction are coming closer to reality thanks to Johns Hopkins University in Maryland. Researchers there recently conducted an experiment where they adapted a brain mapping technology to enable a patient to move the fingers on a prosthetic arm just by thinking about it.
+Mind-Controlled Movement
+While such technology is years from being used by patients everywhere, this experiment was a breakthrough by biomedical engineers and physicians from Johns Hopkins and its School of Medicine. It is the latest advancement in a growing field of research into mind-controlled movement of artificial limbs.
+The Johns Hopkins researchers said their work, published this month in the Journal of Neural Engineering, is the first to accomplish such precise, individualized motion of the fingers. It shows promise for one day providing amputees with prosthetics that more closely mimic the movements of real hands and arms.
+While prosthetics have improved in recent years, they still can be bulky and hard to maneuver. The fingers often move as one unit, or in unison, opening and closing together, like when grasping a soda can.
+Not Practical Yet
+“We still have a bit of a ways to go before we get this in a practical clinical setting fully restoring the natural dexterity of people — but I think that day is coming,” said Guy Hotson. Hotson, an electrical and computer engineering graduate student at Johns Hopkins, was lead author on the study.
+There are more than 100,000 people in the United States with amputated hands or arms who could potentially benefit from such prosthetics, according to the Amputee Coalition, an education, support, and advocacy organization.
+“The mind control research is very cutting edge,” said George Gondo, the coalition’s director of research and grants. “It is really exciting to see improvement and to see actual results from the research.”
+MPL: Modular Prosthetic Limb
+Funded by government efforts to restore limb function to wounded military members, the experiment used a modular prosthetic limb, or MPL, developed by Johns Hopkins Applied Physics Laboratory. The MPL has many more parts, or modules, than older prosthetics. It has gears to move each finger of the hand and motors to bend the arm in different ways. 
+The MPL is the world’s most sophisticated upper-body prosthetic. It may looks like it belongs on a robot, but the limb can perform almost all of the same movements as a human arm and hand.
+While building such a mechanically sophisticated prosthetic limb is possible, how to control it remains an open question.
+Brain Mapping: Electrocorticography
+That’s where the Johns Hopkins researchers thought that brain-mapping technology known as electrocorticography could be used. 
+Brain-mapping involves placing electrodes on a patient's brain that register what parts of the brain he or she uses to do certain tasks. This process enables doctors to create a map of a person's brain so that they can better understand how it functions.
+Because this technology involved opening the brain, the researchers needed to find someone already getting surgery for something else. They recruited a young epileptic man undergoing brain surgery to stop seizures not controlled by medicine.
+Surgery And Programming
+After using the electrodes to help determine where his seizure originated, the researchers set about determining which parts of his brain controlled finger movement. 
+The researchers asked the patient, who was awake throughout the surgery, to move individual fingers. A computer program recorded the parts of the brain that were activated through electrical signals detected by the electrodes as he moved each finger. 
+Using the data collected from the patient’s brain, the prosthetic limb was programmed to move particular fingers when corresponding parts of the brain were activated.
+More Years Of Work Needed
+The prosthetic limb was then wired to the electrodes in the patient’s brain. When he was asked to think about moving particular fingers, his brain activity moved the fingers on the prosthetic limb.
+While these results were a breakthrough, it must be remembered that this was not a typical prosthetic limb experiment. The patient was not an amputee and could control both of his arms. The metal and plastic prosthetic was mounted so that he could see it as it moved. The patient also did not have to undergo any training to make the fingers move as patients in other studies have had to do.
+The prosthetic arm still needs years of development, the researchers said. For one, it needs to connect to a computer running the software in order to work.
+Goal: Better Lives For Amputees
+“Most of what is being done here is not built into the arm,” said Dr. Nathan Crone, professor of neurology at the Johns Hopkins University School of Medicine who was part of the study. “Some day when this is used by patients it will probably require some faster computing and eventually it could fit in the arm. Right now it would require some kind of computing pack somebody would carry around.”
+The Amputee Coalition’s Gondo said motion-controlled technology has the potential to improve the lives of amputees — from the types of jobs they do, to their ability to live independently.
+It Will Be Expensive
+Even if the technology is perfected for mind-controlled prosthetics, cost remains a huge obstacle for widespread application. A modular prosthetic can cost half a million dollars, said Hotson.
+It could be years before mind-controlled prosthetics are even ready for commercialization, the Hopkins researchers said.
+“We are not going to see this in patients right away,” Crone said. “These are just the first steps toward that technology.”
+      
+      

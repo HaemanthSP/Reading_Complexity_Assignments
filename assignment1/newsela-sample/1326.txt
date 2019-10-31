@@ -1,0 +1,28 @@
+WASHINGTON, D.C. — This has turned into Gravity Week in Washington D.C. On Thursday, scientists announced that they have succeeded in detecting gravitational waves from the violent merging of two black holes in deep space. 
+The violent collision was heard by an experiment called LIGO, which stands for Laser Interferometer Gravitational-Wave Observatory.
+A Spooky Little Subject Like Gravity
+To understand how LIGO did this, let's mull gravity and why it's been such a mysterious force for so long.
+Gravity is invisible, as you may have noticed. It's also a little bit spooky, because it seems to reach across space to cause actions at a distance without anything causing it. What goes up must come down, but why that is so has never been obvious.
+Physicists tell us there are four fundamental forces in the universe: Gravity, electromagnetism, the strong nuclear force and the weak nuclear force. Of these, gravity is the weakest, and yet it has shaped the universe. In our solar system, it governs the planets and moons in their orbits. On Earth, it makes apples fall from trees, and keeps humans from flying off into space. 
+A Feather On The Moon
+Aristotle first wrote about gravity, and believed that heavier objects fell to Earth faster than lighter ones. 
+In the late 16th and early 17th centuries, Galileo discovered through scientific experiments that a heavy object and a light object actually fall at the same speed. One biographer claimed that he proved this by dropping two spheres from the Leaning Tower of Pisa, in Italy. In 1971, Apollo 15 moonwalker David Scott tried the experiment on the moon. He dropped a hammer and a feather and they hit the moon's surface at the same time. This demonstrated dramatically that air resistance, not gravity, is what causes the feather to fall more slowly on earth.
+Galileo also discovered that objects always fall with constant acceleration and in the same shape of a curve. 
+From Newton To Einstein
+Then came Isaac Newton. In the second half of the 17th century, he developed a universal law of gravity. He calculated that gravitational force decreases over distance. Newton also found that that the greater an object's mass, the greater its gravitational force. This is true on Earth as well as in space. It explains ocean tides and the motions of the planets around the sun. 
+Newton had found a way to describe gravity mathematically. But even Newton admitted that he didn't understand how gravity achieved its effects. 
+In the early 20th century, Albert Einstein finally came up with an explanation, and it's rather astonishing. First he grasped that gravity and acceleration are the same thing. In 1915, he came up with the General Theory of Relativity, which describes gravity as a consequence of the way mass curves "spacetime," the fabric of the universe. It's all geometry. Objects in motion will move through space and time on the path of least resistance. A planet will orbit a star because the space is warped around the star.
+"Warping Of Space And Time"
+"Gravity, according to Einstein, is the warping of space and time," Brian Greene wrote in his book "The Elegant Universe."
+The physicist John Wheeler famously said: "Mass grips space by telling it how to curve, space grips mass by telling it how to move."
+Einstein's great theory was first proved by the British astronomer Arthur Eddington. In 1919 he observed a solar eclipse and concluded that starlight passing close to the sun was, indeed, bent just as Einstein's theory said. Eddington's observation made Einstein famous.
+Chasing A Wave
+One of the predictions of Einstein's equations was the existence of gravitational waves — ripples in the spacetime fabric. Scientists spent years looking for such waves, but with no luck. But then the National Science Foundation opened LIGO, which has two facilities, one in Louisiana, and the other in Washington state.
+Some people thought LIGO might find nothing at all. These waves, if they existed, would be extremely subtle. It's not like picking up the vibration from a passing truck. The gravitational waves, in theory, should contract or expand space by only the tiniest amount. 
+Gravitational waves pass through everything and can't be directly captured. So the two LIGO facilities use a laser beam to try to deduce the passing of a gravitational wave. The beam is split in two, with each part bouncing off mirrors perched at the end of perpendicular, airless tubes about 2.5 miles long. When those beams again meet, they should line up perfectly — unless some invisible gravitational waves have come rolling through the building, stretching one tube or compressing another and thereby changing the distances traveled by the beams.
+Now Hear This!
+One controversy over LIGO was simply about the name. Was it really an "observatory"? Some astronomers weren't ready to go there. Astronomy has always been a science built around light. When astronomers talk about observing with telescopes, the infrared, or with radio waves or gamma rays or X-rays, they are talking about different wavelengths of light, each creating its own visual picture of the universe.
+But gravitational waves are a new way of seeing the universe. Or, to use a better metaphor, of hearing the universe. Physicists say this is like adding sound to what we can already see.
+The movie of the universe has always been spectacular, but it is even better with sound.
+      
+      

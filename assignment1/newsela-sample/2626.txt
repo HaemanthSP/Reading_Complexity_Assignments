@@ -1,0 +1,31 @@
+NASA is facing a mind-boggling challenge: It must predict the state of astronomy two decades from now and design a telescope for that future. This feat of forecasting is necessary because the large-scale space observatories that redefine our understanding of the universe, such as the Hubble Space Telescope, require at least that much advance planning. 
+To that end, the space agency has just embarked on a set of studies to consider four possible major missions — one of which, most likely, will launch around 2035.
+Telescope Two Decades In The Making
+In April, four “Science and Technology Definition Teams” made up of scientists from around the world will begin to sketch out the various possibilities. In 2019, the teams will turn over their final reports to the National Academy of Sciences, which advises NASA on which mission should take top priority. From the beginning of this process to completed construction, almost 20 years will pass. 
+“Space is hard. These things are large,” says Paul Hertz, NASA’s Astrophysics Division director. “It takes a long time to do it right.”
+The four missions NASA is considering are called the Far-Infrared Surveyor, X-Ray Surveyor, Habitable-Exoplanet Imaging Mission (HabEx) and Large Ultraviolet-Optical-Infrared Surveyor (LUVOIR).
+LUVOIR Already Has Scientists Excited
+The LUVOIR telescope would boast a mirror that could be as much as 52 feet across, more than three times the size of Hubble’s. The mirror would likely be made of smaller parts pieced together like a mosaic, because constructing one mirror that huge at the precision necessary would be nearly impossible. LUVOIR would be able to take the same type of eye-catching portraits for which Hubble is known. 
+The observatory would be a jack-of-many-trades, able to watch stars, galaxies and black holes form and evolve. However, it is LUVOIR’s potential to study planets that has scientists most excited. The telescope could potentially find Earth-size worlds circling nearby stars and then determine if they are actually like Earth in terms of life-friendliness. 
+The discovery of planets that could support life, or already do, "really will give birth to whole new fields of science that don’t exist today,” NASA astrophysicist Aki Roberge said. Roberge is the lead study scientist for the LUVOIR team. 
+Distant planets are not easy to make out because their stars shine about 10 billion times brighter. To spot those distant worlds, LUVOIR would either need a coronagraph — a disk on the telescope that blocks the light from the stars — or a starshade, a screen positioned in front of the telescope to accomplish the same feat.
+Combing The Universe's Distant Past
+HabEx is another of the telescopes under consideration. It shares many similarities with LUVOIR, but would be designed more narrowly around the goal of planet-watching. It would be optimized to search for and take images of Earth-like worlds. Its mirror would be about half the size of LUVOIR's, and it also would need a coronagraph or starshade.
+Both HabEx and LUVOIR would record light in a range that human eyes can see.
+The third candidate, the Far-Infrared Surveyor, would be able to observe invisible infrared light. 
+Infrared light reveals parts of the universe that are otherwise undetectable. For example, it can illuminate stars and planets that are in the process of forming and which are still hidden behind clouds of dust. 
+Because light travels slowly though the vast stretches of outer space, it is actually a snapshot of an incredibly distant past by the time it reaches our telescopes. Being able to observe infrared light could give scientists information about the first galaxies ever formed and about the possible origins of life itself. 
+Such investigations into how we got here can only happen with a far-infrared telescope, says astronomer Kartik Sheth of NASA Headquarters. Sheth is the Far-Infrared Surveyor team’s program scientist.
+Keeping a far-infrared telescope cool is a problem scientists still need to solve. Heat from the telescope could make it difficult to see the infrared images from space.
+X-Ray Surveyor's Unique Challenges
+The final telescope choice, the X-Ray Surveyor, would also target parts of the universe invisible to human eyes. Focusing on X-ray light allows you to see things you cannot see otherwise, says NASA's Jessica Gaskin, who heads the X-Ray Surveyor team. 
+The X-Ray Surveyor could also answer deep questions about the origins of things — but different ones from an infrared telescope. It would look back to how black holes began, how galaxies formed around them and how the whole structure of the universe shaped up. 
+“They all go back to understanding the evolution of our universe in a really big sense,” Gaskin says.
+To create such a telescope, though, scientists will have to figure out how to build a huge mirror that does not weigh much, which will require developing new technology. “Right now we can make thick optics that can perform very well,” Gaskin says. “But the challenge is to make thin optics that can perform consistently.”
+Challenges such as those, not to mention hurdles the teams cannot anticipate, will take some time to tackle.
+The 2030s Are Right Around The Corner
+At the end of April, the teams will give NASA their initial thoughts on the task at hand. Then in August they must each submit a “study plan,” detailing their timelines and the resources they will need to define the goals, scope and cost of each telescope.
+In March 2019, the teams will submit reports on what they have accomplished, each laying out the best case they can make for their particular observatory. A committee from the National Academy of Sciences will then rate and rank the projects, and will advise the space agency on which to pursue. At that point, NASA will take the first steps toward developing one of these telescopes for launch in the 2030s.
+Because of its long timeline, preparing a space telescope launch is like building the pyramids — if, from the pyramids’ peaks, you could see back to the beginning of galaxies, peer into planets’ atmospheres and watch the births of super massive black holes. Only a space observatory mission can do that, though. In a few years, we will know which future NASA will choose.
+      
+      

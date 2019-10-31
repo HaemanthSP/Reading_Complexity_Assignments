@@ -1,0 +1,28 @@
+Mathematician Joseph Mazur was riding in the back of a van when he heard one of his favorite coincidence stories. The driver, an Italian language teacher named Francesco, told of meeting a woman named Manuela who had come to study at his school. Francesco and Manuela met for the first time in a hotel lobby, and then went to have coffee.
+They spoke for an hour, getting acquainted, before the uncomfortable truth came out. Noting Manuela's nearly perfect Italian, Francesco finally asked why she decided to come to his school.
+"She said, 'Italian? What are you talking about? I'm not here to learn Italian,'" Mazur relates. "And then it dawned on both of them that she was the wrong Manuela and he was the wrong Francesco." They returned to the hotel lobby where they had met to find a different Francesco offering a different Manuela a job she didn't want or expect.
+The tale is one of the many stories in Mazur's new book, "Fluke," in which he explores the probability of coincidences.
+It's Not Mystical, It's Just Math
+Mazur argues that most of the coincidences people experience can be explained by simple mathematics. If coincidences seem so surprising, it's because people often fail to understand how the basic laws of probability work.
+Many people might be surprised to meet someone who shares their birthday -- but should they be?
+Mathematicians call this "the birthday problem," and they usually phrase it like this: How big does a group of people need to be before there's a 50-50 chance that two people share the same birthday?
+Right away, it's obvious that if there are 366 people in a group, there's a 100 percent chance that two people will have the same birthday — since there are only 365 days in a year (excluding leap year). But the probability is still almost certain with a much smaller group than that.
+For this problem, it's easier to look at the opposite case: the probability that no two people in a room have the same birthday. 
+Probabilities can be expressed as fractions. To figure out the probability of two independent events occurring together, you can multiply the probabilities of each event. So the probability that two people do not share the same birthday is 365/365 x 364/365.
+That equals about 99.7 percent — meaning that, with just two people, it's very likely neither will have the same birthday. The probability that three random people do not share the same birthday is 99.18 percent.
+ But as more people are added to the equation, the probability that no two people are born on the same day starts to fall, first gradually, and then sharply. With five people it's 97.3 percent, and with 15 people it's 74.7 percent. To get better than even odds (50 percent or more) that two people in the room have the same birthday, the group only needs 23 people.
+By the time the group reaches 60 people, it's close to certain that there will be a birthday match.
+Finding Meaning In Something Random
+Mazur discusses another problem that explains a lot about how people misunderstand probabilities: the monkey problem, which originated with mathematician Emile Borel.
+In 1913, Borel decided to tackle an age-old question about randomness, Mazur says. "He asked the question, 'Could totally random events amount to something meaningful?' And the popular rendition of the question soon became, 'Could a monkey randomly hitting the keys of a keyboard type out a Shakespearean sonnet?'"
+Borel's answer was, essentially, yes — a monkey will eventually type out a Shakespearean sonnet, though it could take a very long time. As Mazur says, the probability of a monkey randomly typing "shall" — as in "Shall I compare thee to a summer's day" — is in itself nearly 1 in 12 million.
+But if the monkey tries many, many times, or more fellow monkeys join it in its endeavor, that probability starts to drop. With 8.2 million tries, the monkey has a better than even chance of typing the word "shall."
+This same principle is used in brute force attempts to crack passwords, in which algorithms use trial and error methods to quickly run through potential password combinations. This is why longer passwords are so much more secure than shorter ones.
+Selective Attention
+A central argument of Mazur's book is that people tend to make several common mistakes when thinking about probabilities.
+For example, in early November, FiveThirtyEight's 2016 Election Forecast showed Democratic candidate Hillary Clinton with a 70 percent chance of winning. It gave Republican candidate Donald Trump only a 30 percent chance. Many people look at a lopsided probability like that and assume that a Clinton win is basically guaranteed. If Donald Trump were to be victorious, some might assume FiveThirtyEight got it wrong.
+Of course, that's not how probability works. With more than a one-in-four chance, Donald Trump could still easily win the 2016 election.
+Another reason people tend to misunderstand probability is selective attention. People notice and remember coincidences, but they hardly ever notice when a coincidence doesn't happen. They notice the small number of people who share their birthday, not all of the people who don't, even though the number who don't is much larger.
+This tendency to overestimate or underestimate particular numbers is what gives rise to people's great surprise at many coincidences. People often forget how truly big the world is, Mazur writes. With so many chance events occurring for so many people around the globe, stunning coincidences are only natural.
+      
+      

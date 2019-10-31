@@ -1,0 +1,24 @@
+WASHINGTON — The government proposed a new rule Tuesday that says that all new cars should be able to talk wirelessly with each other. Officials say the new technology could reduce deaths from traffic accidents and transform how people drive.
+Vehicle-to-vehicle communications, or V2V, lets cars transmit their locations, speed, direction and other information over the airwaves. The technology lets cars know, for example, when another vehicle is about to run a red light in time to prevent a crash.
+The technology could prevent or reduce the impact of 80 percent of car crashes that don't involve alcohol or drugs, officials said.
+Transportation Secretary Anthony Foxx said the department is trying to use transportation technology to save lives.
+The Alliance of Automobile Manufacturers said it is reviewing the proposal. So far it says the V2V is in line with new safety features that are being added to vehicles.
+V2V Has Been Under Development For More Than A Decade
+Automakers and the government have been working together on developing the V2V technology for more than a decade. Under the department's proposal, V2V systems would be required to "speak the same language."
+The Federal Highway Administration plans to help transportation planners integrate wireless technology into road infrastructure like traffic lights and stop signs. Cars could communicate information to the lights or signs. This information could then be passed along to other cars as they come along. Traffic lights would know when to stay green so people don't have to wait so long at red lights. It would also reduce traffic jams.
+Officials said they expect to have a final rule in about a year.
+All Vehicles Would Have V2V Within Four Years
+So far, the rule says half of new vehicles would have the technology within two years after the rule goes into effect. All vehicles would have V2V within four years. It would still take years or even decades for it really to save lives. That's because V2V can prevent crashes only among vehicles that have it.
+One idea is to develop a way to put the technology in older cars.
+Some automakers aren't waiting for the final rule. General Motors has already said it plans to include V2V in some 2017 Cadillacs. The 2017 Mercedes E-Class sedans also have V2V.
+V2V's can communicate about 1,000 yards in all directions, even when buildings are in the way. That lets the technology detect a possible crash even before a driver knows there is a problem.
+Self-driving cars work differently. Sensors and cameras only tell what's immediately around the vehicle.
+Self-Driving Cars Can Work Well With V2V
+Industry and government officials say the two technologies work together. Ultimately, self-driving cars with V2V may be the answer to traffic jams. They'll be able to coordinate so cars can safely travel close together at higher speeds. That would let traffic move quicker and increase the number of cars on the highway
+To protect privacy, V2V messages do not contain any information on the driver, owner of the vehicle, type of car or license plate. The messages are also short and they are not kept. It is not possible to use the messages to determine where a vehicle has been or find it on the road, said Debra Bezzina. She is an engineer with the University of Michigan's Transportation Research Institute and works on V2V
+Firms Want More Use Of Airwaves
+Several years ago, Congress set aside a radio frequency for V2V use. Since then, there has been an explosion in the number of wireless devices. Demand for ever faster Wi-Fi has also sky-rocketed. Tech companies are putting pressure on the Federal Communications Commission (FCC) to let it use the same part of the airwaves.
+The FCC is working on a testing program to see if sharing the frequency would interfere with V2V signals.
+The auto group said it should be allowed only if there's proof it won't get in the way.  Any interference with the V2V signal could cause a bad crash.
+      
+      
