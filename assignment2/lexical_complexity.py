@@ -67,11 +67,11 @@ def lexical_complexity(text):
     mean_freq2 = sum(freq2) / len(freq2)
     sd_freq2 = np.std(np.array(freq2))
 
-    # Stats:
-    print("Total number of tokens:", tokens)
-    print("Total number of lexs:", lexs)
-    print("Total number of types:", len(vocab))
-    input("Press Enter to continue...")
+    # Stats for debugging:
+    # print("Total number of tokens:", tokens)
+    # print("Total number of lexs:", lexs)
+    # print("Total number of types:", len(vocab))
+    # input("Press Enter to continue...")
 
     return {"Lexical.density": lexical_density,
             "Mean.frequency.Zipf-value": mean_freq1,
