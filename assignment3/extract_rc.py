@@ -19,9 +19,9 @@ def extract_relative_clause(sentences):
                 relcls.append(relcl)
 
         results.append({
-                'sent_id': idx,
+                'sent_id': idx + 1,
                 'sentence': sentence.text,
-                'has_rc': bool(relcls),
+                'has_rc': 1 if relcls else 0,
                 'RCs': ', '.join(relcls)
             })
     return results
