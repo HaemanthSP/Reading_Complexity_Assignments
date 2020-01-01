@@ -13,17 +13,36 @@ def extract_relative_clause(sentences):
     results = []
     for idx, sentence in tqdm(enumerate(sentences)):
         relcls = []
+        deps = {}
         for word in sentence:
             if word.dep_ == 'relcl':
-                relcl = '"' + ' '.join(map(str, list(word.subtree))) + '"'
+                relcl = ' '.join(map(str, list(word.subtree)))
                 relcls.append(relcl)
+            deps[word.text] = word.dep_
+        for relcl in relcls:
+            relativizer = '-'
+            head_noun = '-'
+            rc_noun_rel = ''
+            mc_noun_rel = ''
+            for x in NLP(relcl):
+                if x.dep_ == "nsubj":
+                    relativizer = x.text
 
-        results.append({
+                if x.pos_ == 'NOUN':
+                    head_noun = x.text
+                    rc_noun_rel = x.dep_
+                    mc_noun_rel = deps[x.text]
+
+            results.append({
                 'sent_id': idx + 1,
                 'sentence': sentence.text,
                 'has_rc': 1 if relcls else 0,
-                'RCs': ', '.join(relcls)
-            })
+                'RC': '"' + relcl + '"',
+                'Relativizer': relativizer,
+                'Head Noun': head_noun,
+                'Gram. Role in MC': mc_noun_rel,
+                'Gram. Role in RC': rc_noun_rel
+               })
     return results
 
 
@@ -31,7 +50,7 @@ def write_to_csv(results, output_filename):
     """
     Write the results to the given file path (.csv)
     """
-    fieldnames = ["sent_id", "sentence", "has_rc", "RCs"]
+    fieldnames = ["sent_id", "sentence", "has_rc", "RC", "Relativizer", "Head Noun", "Gram. Role in MC", "Gram. Role in RC"]
     with open(output_filename, 'w') as out_file:
         dict_writer = csv.DictWriter(out_file, fieldnames)
         dict_writer.writeheader()
