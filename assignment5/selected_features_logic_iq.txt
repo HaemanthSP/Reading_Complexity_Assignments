@@ -1,0 +1,5 @@
+Human Processing - cMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - cTotalIntegrationCostsAtFiniteVerbPerFiniteVerb
+Human Processing - oMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - oTotalIntegrationCostsAtFiniteVerbPerFiniteVerb
+Language Use - typesFoundInSubtlexPerLexicalType

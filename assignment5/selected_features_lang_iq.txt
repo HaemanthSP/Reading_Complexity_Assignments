@@ -1,0 +1,9 @@
+Discourse Complexity - Breindl all_ConnectivePerSentence
+Discourse Complexity - Breindl all_single_ConnectivePerSentence
+Human Processing - cMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - cTotalIntegrationCostsAtFiniteVerbPerFiniteVerb
+Human Processing - cmMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - mMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - mvTotalIntegrationCostsAtFiniteVerbPerFiniteVerb
+Human Processing - oMaxTotalIntegrationCostsPerFiniteVerb
+Human Processing - oTotalIntegrationCostsAtFiniteVerbPerFiniteVerb
