@@ -107,7 +107,7 @@ def train(key):
         plt.show()
 
         selected_feats = [feat for _, feat in sorted(zip(rfecv.ranking_, columns))[:rfecv.n_features_]]
-        with open('pselected_features_' + key + '.txt', 'w') as file_handle: 
+        with open('selected_features_' + key + '.txt', 'w') as file_handle: 
             # file_handle.writelines(selected_feats)
             for feat in selected_feats: 
                 file_handle.write("%s\n" % feat) 
