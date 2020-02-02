@@ -71,31 +71,30 @@ def train(key):
         (trainX, trainY, s), columns = prepare_data("./training_data-" + key + ".tsv", key)
         (validX, validY, _), columns = prepare_data("./development_data-" + key + ".tsv", key, s)
         (testX, testY, _), columns = prepare_data("./test_data-" + key + ".tsv", key, s)
-    # (X, y, _), columns = prepare_baseline_data("./training_data-" + key + ".tsv", key)
 
     # Create the RFE object and rank each pixel
-    # reg = linear_model.LinearRegression()
-    reg = SVR()
+    reg = linear_model.Ridge()
+    # reg = SVR(kernel="linear")
     # svc = SVC(kernel="linear", C=1)
-    rfecv = RFE(estimator=reg, n_features_to_select=1, step=1)
-    rfecv.fit(trainX, trainY)
-
-    # rfecv = RFECV(estimator=reg, step=1,
-    #           scoring="neg_mean_squared_error")
+    # rfecv = RFE(estimator=reg, n_features_to_select=1, step=1)
     # rfecv.fit(trainX, trainY)
+
+    rfecv = RFECV(estimator=reg, step=1,
+              scoring="neg_mean_squared_error")
+    rfecv.fit(trainX, trainY)
 
     print("Train Score: ", rfecv.score(trainX, trainY))
     print("Validation Score: ", rfecv.score(validX, validY))
     print("Test Score: ", rfecv.score(testX, testY))
 
-    # print("Optimal number of features : %d" % rfecv.n_features_)
+    print("Optimal number of features : %d" % rfecv.n_features_)
 
     # Plot number of features VS. cross-validation scores
-    # plt.figure()
-    # plt.xlabel("Number of features selected")
-    # plt.ylabel("Cross validation score (nb of correct classifications)")
-    # plt.plot(range(1, len(rfecv.grid_scores_) + 1), rfecv.grid_scores_)
-    # plt.show()
+    plt.figure()
+    plt.xlabel("Number of features selected")
+    plt.ylabel("Cross validation score (nb of correct classifications)")
+    plt.plot(range(1, len(rfecv.grid_scores_) + 1), rfecv.grid_scores_)
+    plt.show()
 
 
     # return rfecv, columns
